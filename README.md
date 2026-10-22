@@ -1,6 +1,6 @@
-# Foxhole Labs contribution defaults
+# Latent Methods contribution defaults
 
-Shared GitHub contribution templates for Foxhole Labs repositories.
+Shared GitHub contribution templates for Latent Methods repositories.
 
 ## Pull request template
 
@@ -27,8 +27,8 @@ template's structure itself; GitHub does not rewrite supplied descriptions.
 Fetch the current template rather than maintaining a second copy:
 
 ```sh
-gh api repos/foxholelabs/.github/contents/.github/pull_request_template.md \
-  --jq .content | base64 --decode > /tmp/foxholelabs-pr-body.md
+gh api repos/latentmethods/.github/contents/.github/pull_request_template.md \
+  --jq .content | base64 --decode > /tmp/latentmethods-pr-body.md
 ```
 
 Fill in that file, then pass it to `gh pr create --body-file` with the repository's
