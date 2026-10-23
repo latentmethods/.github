@@ -1,13 +1,23 @@
-# Latent Methods
+[![Latent Methods — AI products and software services.](assets/latent-methods.svg)](https://latentmethods.com)
 
-AI products and software services.
+<sub>IN DEVELOPMENT</sub>
 
-We develop software to address privacy gaps in AI agents and inference.
+## Paxlox
 
-## In development: Paxlox
+**A personal AI agent built for privacy.**
 
-Paxlox is a personal AI agent built for privacy, designed for
-everyday tasks and automations, with confidential computing capabilities for
-sensitive work.
+Paxlox is designed for everyday tasks and automations, with confidential computing
+capabilities for sensitive work.
 
-[Visit our website](https://latentmethods.com) · [Contact us](https://latentmethods.com/contact/)
+---
+
+## Hillclimbing the Pareto frontier
+
+Founded in 2026, Latent Methods develops software to address privacy gaps in AI
+agents and inference.
+
+As the name reflects, Latent Methods searches for overlooked approaches that can
+give products an edge. Unwavering curiosity and determination help turn those
+ideas into useful software.
+
+[Website](https://latentmethods.com) · [Values](https://latentmethods.com/#approach) · [Contact](https://latentmethods.com/contact/)

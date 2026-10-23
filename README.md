@@ -9,8 +9,12 @@ to the company website at [latentmethods.com](https://latentmethods.com). GitHub
 displays it on the organization overview after it reaches this repository's
 default branch.
 
-Keep the profile concise and aligned with the public website. The website source
-and deployment remain in their separate private repository; this repository holds
+Keep the profile concise and aligned with the public website. Its static banner
+uses the existing website mark, palette, and typography; see [brand asset provenance](profile/assets/README.md).
+Use native Markdown and supported HTML for the body because GitHub does not
+apply website CSS or scripts.
+
+The website source and deployment remain in their separate private repository; this repository holds
 only public GitHub content. See the [repository separation decision](docs/decisions/001-public-github-presence.md).
 
 ## Pull request template
