@@ -1,6 +1,17 @@
-# Latent Methods contribution defaults
+# Latent Methods GitHub defaults
 
-Shared GitHub contribution templates for Latent Methods repositories.
+Public organization profile and shared contribution templates for Latent Methods.
+
+## Organization profile
+
+[The organization profile](profile/README.md) introduces Latent Methods and links
+to the company website at [latentmethods.com](https://latentmethods.com). GitHub
+displays it on the organization overview after it reaches this repository's
+default branch.
+
+Keep the profile concise and aligned with the public website. The website source
+and deployment remain in their separate private repository; this repository holds
+only public GitHub content. See the [repository separation decision](docs/decisions/001-public-github-presence.md).
 
 ## Pull request template
 
