@@ -1,4 +1,4 @@
-[![Latent Methods — AI products and software services.](assets/latent-methods.svg)](https://latentmethods.com)
+[![Latent Methods — Developing Paxlox, a personal AI agent built for privacy.](assets/latent-methods.svg)](https://latentmethods.com)
 
 <sub>IN DEVELOPMENT</sub>
 
@@ -6,8 +6,9 @@
 
 **A personal AI agent built for privacy.**
 
-Paxlox is designed for everyday tasks and automations, with confidential computing
-capabilities for sensitive work.
+Everyday tasks can involve private documents and personal plans. Paxlox is being
+developed to protect that context during agent actions and inference, with
+confidential computing capabilities for sensitive work.
 
 ---
 
