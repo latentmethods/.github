@@ -13,11 +13,11 @@ capabilities for sensitive work.
 
 ## Hillclimbing the Pareto frontier
 
-Founded in 2026, Latent Methods develops software to address privacy gaps in AI
-agents and inference.
+Useful AI should fit into your life without making your private life the price of
+admission.
 
-As the name reflects, Latent Methods searches for overlooked approaches that can
-give products an edge. Unwavering curiosity and determination help turn those
-ideas into useful software.
+Latent Methods is developing Paxlox, a personal AI agent for everyday tasks and
+automations. Its development focuses on privacy in agents and inference,
+including confidential computing for sensitive work.
 
 [Website](https://latentmethods.com) · [Values](https://latentmethods.com/#approach) · [Contact](https://latentmethods.com/contact/)
