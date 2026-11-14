@@ -1,0 +1,14 @@
+{
+  "name": "latentmethods-github-profile",
+  "private": true,
+  "scripts": {
+    "build:banner": "node scripts/profile-banner.mjs --write",
+    "check": "node scripts/profile-banner.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "2.6.2"
+  }
+}
