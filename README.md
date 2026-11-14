@@ -14,8 +14,20 @@ uses the existing website mark, palette, and typography; see [brand asset proven
 Use native Markdown and supported HTML for the body because GitHub does not
 apply website CSS or scripts.
 
+The profile embeds a PNG exported from the editable SVG. After changing the
+banner, run `npm ci --ignore-scripts`, `npm run build:banner`, and `npm run check`.
+The **Profile assets** workflow checks the export and inline Markdown image references.
+See [banner maintenance](profile/assets/README.md#updating-the-banner).
+
 The website source and deployment remain in their separate private repository; this repository holds
 only public GitHub content. See the [repository separation decision](docs/decisions/001-public-github-presence.md).
+
+## Project directory
+
+- **Doppler:** these static profile build and check commands require no secrets
+  or Doppler configuration.
+- **Linear:** a project lookup for GitHub on 2026-11-13 found no matching project.
+  This records the lookup result, not a declaration that no project exists.
 
 ## Pull request template
 

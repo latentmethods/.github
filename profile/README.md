@@ -1,4 +1,4 @@
-[![Latent Methods — Developing Paxlox, a personal AI agent built for privacy.](assets/latent-methods.svg)](https://latentmethods.com)
+[![Latent Methods — Developing Paxlox, a personal AI agent built for privacy.](assets/latent-methods.png)](https://latentmethods.com)
 
 <sub>IN DEVELOPMENT</sub>
 
